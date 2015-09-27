@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="gray3">#cccccc</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#ffffffff</color>
+    <color name="blue">#35b6f9</color>
+    <color name="gray">#717171</color>
+    <color name="red">#ffff0000</color>
+    <color name="color_qianhui">#ff888b8d</color>
+    <color name="text_gray">#909090</color>
+    <color name="text_black">#4a4a4a</color>
+    <color name="color_hei_8">#00000000</color>
+    <color name="bg_blue">#0163AE</color>
+    <color name="bg_divider">#E5E5E5</color>
+    <color name="black">#ff000000</color>
+    <color name="light_black">#434343</color>
+    <color name="light_gray">#999999</color>
+    <color name="light_gray1">#cccccc</color>
+    <color name="list_item_focused">#81CFE9</color>
+    <color name="chat_list_time">#666666</color>
+    <color name="gray_565656">#ff565656</color>
+    <color name="blue2">#00F5FF</color>
+    <color name="card_second_text">#727071</color>
+    <color name="green">#7CFC00</color>
+    <color name="pink">#FF00FF</color>
+    <!-- 表情背景 -->
+    <color name="tab_bg">#F1F0F0</color>
+    <color name="semi_transparent">#7f000000</color>
+    <color name="myinfo">#9C9C9C</color>
+    <color name="global_bg_gray">#DDDDDD</color>
+    <color name="global_text_gray">#717171</color>
+    <color name="send_radiobutton_gray">#f4f4f4</color>
+    <color name="global_text_blue">#00a5e3</color>
+    <color name="circle_bg">#e8e8e8</color>
+    <!-- 视频会议 -->
+
+    <color name="global_bg_gray1">#aaaaaa</color>
+    <color name="color_lan">#ff067bb1</color>
+    <color name="chat_history_time_text">#ff999999</color>
+    <color name="color_cihei">#ff333333</color>
+    <!-- 视频会议 -->
+    <color name="blue_bg">#006666</color>
+    <color name="white_light_bg">#f7f8f8</color>
+    <color name="red_light_bg">#b83939</color>
+    <!-- 日历 -->
+    <color name="calendar_top_bg">#EFEFF0</color>
+    <color name="calender_head_bg">#F7F7F7</color>
+    <color name="calender_main_bg">#F7F7F7</color>
+    <color name="calender_header_text">#000000</color>
+    <color name="calender_main_text">#454545</color>
+    <color name="calender_select_stoke">#0000FF</color>
+    <color name="calender_today_text">#0000FF</color>
+    <color name="calender_not_current_text">#b8b9b7</color>
+    <color name="calender_today_bg">#EBDCC1</color>
+    <color name="calender_remainder">#7ADBFB</color>
+    <color name="calendar_sunny_header">#80B60A</color>
+    <color name="calendar_sateday_header">#80B60A</color>
+    <color name="calendar_select_bg">#FFF6E9</color>
+    <color name="calendar_select_text">#0000FF</color>
+    <color name="listview_item_press">#CAE1FF</color>
+    <color name="dynamin_item_bg_p">#EDEDED</color>
+    <color name="dynamin_item_bg_np">#FFFFFF</color>
+
+    <color name="calender_holiday_bg">#D0EE96</color>
+    <color name="calender_holiday_text">#275A24</color>
+    <color name="calender_new">#FF3042</color>
+    <color name="calendar_sunny_text">@color/calender_main_text</color>
+    <color name="calendar_sateday_text">@color/calender_main_text</color>
+    <color name="common_text">#fff8ac</color>
+    <!--  -->
+    <color name="main_app_color">#ffcf4c29</color>
+    <color name="text_selected">#ffcf4c29</color>
+    <color name="text_over">#ffb9c4cb</color>
+    <color name="text_default">#ff5b656f</color>
+    <color name="text_disabled">#ffa6b3bf</color>
+    <color name="text_header">#ff7e8e9e</color>
+    <color name="text_switch_selected">#ffffff</color>
+    <color name="text_switch">#ff41484f</color>
+    <color name="color_zuiqianhui">#ffb4b4b4</color>
+    <color name="text_nick_name">#ff333333</color>
+    <color name="global_text_orange">#EB7801</color>
+    <color name="light_blue">#05A2F5</color>
+    <color name="calendar_transparent">#00000000</color>
+    <color name="text_button">#ff41484f</color>
+    <color name="text_button_disabled">#ffa6b3bf</color>
+    <color name="text_button_selected">#ff41484f</color>
+    <color name="text_button_over">#ffcf4c29</color>
+    <color name="numpad_background_bottom">#ffe4edf2</color>
+    <color name="numpad_background_dialer">#ffd8d8d8</color>
+    <color name="numpad_background_top">#ffb1bdc3</color>
+    <color name="missed_calls_background">#ffcf4c29</color>
+    <color name="landscape_background">#CCCCCC</color>
+    <color name="text_contrast">#ff000000</color>
+ <!-- If background is white, set to black, else set to white -->
+
+    <color name="gred">#838b8b</color>
+    <color name="text_white_shadow_color">#ff5a9487</color>
+    <color name="gray9">#ff999999</color>
+    <color name="listview_bg">#eceff3</color>
+    <color name="paint_background_color">#F2F3F5</color>
+    <color name="paint_line_1">#ECECEA</color>
+    <color name="paint_line_2">#E1E0D7</color>
+    <color name="gray_e8e8e8">#ffe8e8e8</color>
+    <color name="gray_7d7d7d">#ff7d7d7d</color>
+    <color name="gray_898989">#ff898989</color>
+    <color name="gray_333333">#ff333333</color>
+    <color name="calendar_picker_orange">#FF9500</color>
+    <color name="calendar_picker_black">#646363</color>
+ <color name="global_text_white">#ffffff</color>
+</resources>

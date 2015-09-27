@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" >
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_weight="0"
+        android:layout_height="wrap_content"
+        android:src="@drawable/video_default_icon" />
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="1"
+        android:paddingLeft="10dp"
+        android:orientation="vertical" >
+
+        <TextView
+            
+            android:id="@+id/tv_videoname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="video 第一个"
+            android:textSize="20sp" />
+		
+        <TextView
+            android:id="@+id/tv_videoduration"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="12:25"
+            android:textSize="12sp" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_videosize"
+        android:layout_width="wrap_content"
+        android:layout_weight="0"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="20dp"
+        android:layout_gravity="center_vertical"
+        android:text="1222.7M" />
+
+</LinearLayout>

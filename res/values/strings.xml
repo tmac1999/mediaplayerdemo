@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">qqmediaplayer</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Just Dance!</string>
+    <string name="loading">Loading...</string>
+    <string name="title_video">视频</string>
+    <string name="title_audio">音乐</string>
+
+</resources>
